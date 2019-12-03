@@ -17,7 +17,8 @@ The Folder GenerateSimulationForUnity3D contains everything for a quick road net
 
 This project contains a ported version of Traci4J (https://github.com/egueli/TraCI4J) to C#. Unity3d therefore is able to communicate to SUMO.
 
-There are a few files you could download:
+**There are a few files you could download:**
+
 sumo (I used v0.31.0) --> GenerateSimulationForUnity3D\AdditionalExecutables\sumo-svn
 
 You can have a look into the code to get an idea how the 3d models were included (PathConstants.cs)
@@ -34,5 +35,5 @@ NatureStarterKit2 --> 3dCourse\Assets\3DModelle\3DStrasseVegetation\
 
 Hopefully you can get it to run, have fun!
 
-This project contains GNU General Public License licensed parts from the Traci4J project and due to this is also puhblished under the same license.
+This project contains GNU General Public License licensed parts from the Traci4J project and due to this is also published under the same license.
 
