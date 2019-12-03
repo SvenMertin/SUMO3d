@@ -1,0 +1,1 @@
+%sumoBin%\sumo-gui.exe -c "%workingDir%\map.sumo.cfg" -a "%workingDir%\additional.xml"
